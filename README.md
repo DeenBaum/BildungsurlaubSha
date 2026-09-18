@@ -1,1 +1,3 @@
 # BildungsurlaubSha
+sha256sum BildungsurlaubBeweise.zip 
+684039697cc233a637b32f6bafded2db8dbc89882eafe79f85e97a16a843c832  BildungsurlaubBeweise.zip
